@@ -3,7 +3,7 @@
 // Language: Java​
 // Verdict: Accepted
 // URL: https://www.codechef.com/START258D/problems/SEATING7
-// Solved on: 2026-09-30T14:48:14.078Z
+// Solved on: 2026-09-30T15:02:19.688Z
 
 import java.util.*;
 import java.lang.*;
